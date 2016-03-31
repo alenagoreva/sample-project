@@ -1,0 +1,273 @@
+body {
+    background-color: #292c34;
+    text-align: center;
+}
+
+.header {
+    width: 800px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    padding: 10px;
+    background-color: #24242c;
+}
+
+.header-logo {
+    background-image: url('../images/logo.png');
+    width: 111px;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 15px;
+    float: left;
+}
+
+.header-unsubscribe {
+    color: #97999b;
+    margin-left: 70%;
+    margin-top: 32px;
+}
+
+.yellow-part {
+    background-color:#be8c10;
+    width: 800px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.font {
+    font-family: sans-serif;
+}
+
+.Big-text {
+    color: #ffffff;
+    font-size: 30px;
+    margin-top: 100px;
+
+}
+
+.Small-text {
+    color: black;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.btn {
+    border-radius: 5px;
+    background: #24242c;
+    border: 1px solid #ffffff;
+    height: 40px;
+    width: 140px;
+    margin-top: 45px;
+}
+
+.btn div {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.content2 {
+    background-color: white;
+    width: 720px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 50px;
+
+}
+
+.offer {
+    float: left;
+    width: 30%;
+}
+
+.offer.padded {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.content2 .square {
+    height: 150px;
+    width: 100%;
+    background-color: black;
+}
+
+.Luxo {
+    color: black;
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+.icon {
+    background-image: url('../images/icon.png');
+    width: 9px;
+    height: 13px;
+    margin-top: 10px;
+    float: left;
+}
+
+.text {
+    color: #97999b;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    font-size: 12px;
+}
+
+.Sed_porttitor {
+    color: #97999b;
+    margin-top: 10px;
+    margin-right: auto;
+    font-size: 12px;
+    float: inherit;
+    text-align: left;
+}
+
+.coast {
+    color: black;
+    font-family: sans-serif;
+    margin-top: 20px;
+    float: inherit;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.show {
+    border-radius: 5px;
+    background: black;
+    border: 1px solid #ffffff;
+    height: 36px;
+    width: 160px;
+    float: left;
+    margin-top: 8px;
+
+}
+
+.show-btn {
+    color: #e9a709;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.content3 {
+    background-color: #47474e;
+    width: 800px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+}
+
+.content3 p {
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 60px;
+}
+
+.content3 p > span {
+    color: #ffb600;
+    font-family: SansSerif, serif;
+    font-size: 30px;
+    margin-top: 60px;
+}
+
+.btn-video {
+    background-color: #ffb600;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+    height: 36px;
+    width: 160px;
+    margin-top: 2px;
+    float: inherit;
+    background-image: url('../images/q.png');
+    background-repeat: no-repeat;
+    background-position: 122px 13px;
+    background-size: 6px 9px;
+}
+
+.btn-video:hover {
+    background-color: #e0ad2f;
+}
+
+.btn-video:active {
+    background-color: #97999b;
+}
+
+.content4 {
+    background-color: white;
+    width: 820px;
+    height: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content4 .square {
+    float: left;
+    width: 50%;
+    height: 360px;
+}
+
+.content4 .square.grayed {
+    background-color: #97999b;
+}
+.square .centre{
+    margin-left: 15%;
+    margin-top: 60px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 100px;
+    float: inherit;
+}
+.ending{
+    width: 800px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    background-color: #24242c;
+}
+.ending-logo{
+    background-image: url("../images/logo2.png");
+    width: 50px;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 15px;
+    float: left;
+}
+.ending .text{
+    margin-top: 36px;
+}
+.network{
+    margin-top: 36px;
+}
+.fb{
+    background-image: url("../images/fb.png");
+    width: 7px;
+    height: 13px;
+    float: right;
+}
+.tw{
+    background-image: url("../images/tw.png");
+    width: 13px;
+    height: 11px;
+    float: right;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.dr{
+    background-image: url("../images/dr.png");
+    width: 13px;
+    height: 13px;
+    float: right;
+    margin-right: 50px;
+}
